@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.homepage              = 'https://github.com/ldy694'
   s.ios.deployment_target = '9.0'
   s.license               = 'MIT'
-  s.author                = { 'Dwarven' => 'a694701@qq.com' }
+  s.author                = { 'dd' => 'linxingdong@foxmail.com' }
   s.source                = { :git => 'https://github.com/ldy694/DDTencentOpenApi.git', :tag => s.version }
   s.frameworks            = 'Security', 'SystemConfiguration', 'CoreGraphics', 'CoreTelephony', 'WebKit'
   s.libraries             = 'iconv', 'sqlite3', 'stdc++', 'z'
